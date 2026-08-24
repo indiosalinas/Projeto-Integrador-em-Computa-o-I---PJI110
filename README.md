@@ -1,10 +1,6 @@
 # Projeto-Integrador-em-Computa-o-I---PJI110
 Mini International Neuropsychiatric Interview  Brazilian version 5.0.0  DSM IV 
-Claro. Eu manteria a estrutura do plano anterior, mas mudaria a voz para **“minha proposta para o grupo”**, deixando explícito que somos oito integrantes e mostrando que o projeto não é apenas programação: ele integra **Engenharia de Software, Modelagem Estatística e Inferência Estatística**, além do domínio de saúde mental.
 
-Há, porém, uma correção conceitual importante: o **M.I.N.I. (Mini International Neuropsychiatric Interview)** é uma entrevista diagnóstica estruturada, desenvolvida por pesquisadores da University of South Florida e da University of Paris, amplamente utilizada internacionalmente. Eu evitaria escrever que ele é simplesmente “um questionário padronizado pela APA”, porque isso seria tecnicamente impreciso. Podemos explicar no trabalho a relação dele com critérios diagnósticos padronizados, inclusive DSM, sem atribuir sua autoria à APA.
-
-Segue a versão que eu levaria para o grupo:
 
 # Plano de ação proposto para o Projeto Integrador
 
