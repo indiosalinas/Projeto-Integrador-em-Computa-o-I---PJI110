@@ -1,4 +1,4 @@
-M.I.N.I. Triagem — Projeto Integrador em Computação I
+Sistema Web para Entrevistas Estruturadas em Saúde Mental — Projeto Integrador em Computação II
 
 Protótipo de uma aplicação web desenvolvida em Python e Streamlit para apoiar a aplicação estruturada de uma entrevista em saúde mental.
 
