@@ -1,4 +1,4 @@
-M.I.N.I. Triagem — Projeto Integrador em Computação I
+M.I.N.I. Triagem — Projeto Integrador em Computação II
 
 Protótipo de uma aplicação web desenvolvida em Python e Streamlit para apoiar a aplicação estruturada de uma entrevista em saúde mental.
 
@@ -54,7 +54,7 @@ https://github.com
 
 Depois acessar o repositório oficial do projeto:
 
-GitHub — Projeto Integrador em Computação I
+GitHub — Projeto Integrador em Computação II
 
 https://github.com/indiosalinas/Projeto-Integrador-em-Comput-a-o-I---PJI110
 
