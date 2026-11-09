@@ -1,6 +1,4 @@
-# Projeto Integrador em Computação II - PJI240 - A2026S2N1 - Grupo 4
-
-M.I.N.I. Triagem - Projeto Integrador em Computação II
+# Projeto Integrador em Computação II - PJI240 - A282652N1 - Grupo 4
 
 Protótipo de uma aplicação web desenvolvida em Python e Streamlit para apoiar a aplicação estruturada de uma entrevista em saúde mental.
 
