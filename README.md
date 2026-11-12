@@ -58,7 +58,7 @@ Depois acessar o repositório oficial do projeto:
 
 GitHub — Projeto Integrador em Computação II
 
-https://github.com/indiosalinas/Projeto-Integrador-em-Comput-a-o-I---PJI110
+https://github.com/indiosalinas/Projeto-Integrador-em-ComputaDRP11
 
 Passo 2 — Baixar o projeto
 
@@ -398,4 +398,4 @@ Versão beta
 
 Repositório
 
-https://github.com/indiosalinas/Projeto-Integrador-em-Comput-a-o-I---PJI110
+https://github.com/indiosalinas/Projeto-Integrador-em-ComputaDRP11
